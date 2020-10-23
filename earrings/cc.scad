@@ -1,6 +1,6 @@
 h = 2;
 rad = 15;
-text_size = 12;
+text_size = 13;
 
 translate([0, -text_size/2, 0])
 {
@@ -9,7 +9,7 @@ linear_extrude(h)
     
 }
 
-translate([0,rad,0])
+translate([0,rad+1,0])
 { 
     difference(){
         cylinder(h=h,r=2.5);
@@ -17,6 +17,7 @@ translate([0,rad,0])
         cylinder(h=h,r=1.5);
     }
 }
+
 difference()
 {
     cylinder(h=h,r=rad);
