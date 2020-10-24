@@ -1,5 +1,5 @@
-# openscad-shit
-cosas hechas en openscad
+# Aros openSCAD
+aritos y cosas hechas en openscad
 
 
 ### Aros A-CC
@@ -13,5 +13,3 @@ Los puedes descargar en los links a continuación
 
 <img src="/earrings/img/a-cc.jpg" alt="marca APRUEBO CC"
 	title="A CC" width="300" />
-
-
